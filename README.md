@@ -4,6 +4,6 @@
 
 ## Medlemmer
 
-Audun Skjervold
-Andreas Berglihn
-Arild Wanvik Tvergrov
+* Audun Skjervold
+* Andreas Berglihn
+* Arild Wanvik Tvergrov
